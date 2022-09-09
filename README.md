@@ -1,3 +1,15 @@
+# Research Question
+How is the AirBnb market affected in student cities in Europe by the start of the academic year?
+Sub-questions:
+-How are the prices impacted in this period?
+-Does the number of renters increase?
+-Are more rental locations available?
+
+- Major European cities with universities
+
+
+
+
 # Example of reproducible research workflow 
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
