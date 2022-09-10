@@ -1,11 +1,14 @@
-# Research Question
+# Project motivation
+
+The start of the academic year for university students can be a stressful period for many reasons, finding housing is one of them. In this current research we aim to investigate how the AirBnb market is affected in different Western-European cities by the start of the academic year. The Berlin Spectator recently described the ease with which students can find housing in Berlin is largely base on luck. In a popular Belgian student city, after publishing an advertisement for student rooms, housing agents needed to ignore students' phone calls, as distress among them for rooms and studios was increasing. NL Times published an article in which University of Amsterdam is warninh students not to come to the Netherlands without housing. It is obvious that in all these three countries finding student accomodation is a serious problem for newcomers. However, it is less obvious how this crisis affects the AirBnb market as a possible alternative for students looking for (temporary) accomodation. To what extent does the situation differ across cities in different countries? As a result of our research, we hope to answer the following main research question and sub-questions:
+
 How is the AirBnb market affected in student cities in Europe by the start of the academic year?
 Sub-questions:
--How are the prices impacted in this period?
--Does the number of renters increase?
--Are more rental locations available?
+- How are the prices impacted in this period?
+- Does the number of renters increase?
+- Are more rental locations available?
 
-- Major European cities with universities
+- Major European cities with universities: The Netherlands (Amsterdam, Rotterdam), Belgium (Antwerp, Ghent, Brussels?), Germany (Berlin, Munich?)
 
 
 
